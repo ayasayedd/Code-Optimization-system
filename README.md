@@ -44,3 +44,7 @@ package.json
 
 ## Features
 - User authentication (login/register/logout)
+- AI-powered code analysis
+- Real-time conversation system
+- file management
+- Submission tracking and history
